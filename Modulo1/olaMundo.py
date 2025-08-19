@@ -1,3 +1,4 @@
-print("Olá Mundo!")
+def sayHello():
+    print("Hello World")
 
-print("testando branchs")
+sayHello()
