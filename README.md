@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/nome-da-imagem.png" alt="Banner Python Data Engineering" width="100%">
+  <img src="./assets/bannerReadme.png" alt="Banner Python Data Engineering" width="100%">
 </p>
 
 # 🐍 Python Journey: Backend & Integration for Data Engineering
