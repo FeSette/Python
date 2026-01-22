@@ -1,4 +1,4 @@
-# Declaração
+## Declaração
 nomeCompleto = "Felipe Sette"
 nome = "Felipe"
 sobrenome = "Sette"
@@ -23,3 +23,23 @@ print("Nome completo (8a forma): %s %s"% (nome, sobrenome))
 print(f"Nome completo (9a forma): {nome} {sobrenome}")
 print("Nome completo (10a forma): {} {}".format(nome, sobrenome))
 
+""" 
+## Principais métodos do tipo texto
+
+nome.upper() - mostra o texto da variável em MAIUSCULO
+nome.lower() - mostra o texto da variável em MINUSCULO
+nome[0] - Exibe apenas a primeira letra do texto da variável
+nomeCompleto.count("e") - Vai contar quantas letras "e" tem na variável
+nomeCompleto.find("e") - Vai informar o número da posição da primeira letra "e"
+nome.encode() - Usado para converter uma String em Bytes usando codificação
+nome.encode().decode() - Converter a codificação de Bytes em String
+nomeCompleto.replace("b", "a") - Vai substituir a letra "b" pela letra "a"
+nomeCompleto.replace("a", "b").replace("c", "d").replace("e", "f")
+"-".join("Felipe") - Vai incluir o "-" entre cada caracter da string
+nomeCompleto.split() - Vai dividir a string em lista = ['Felipe', 'Sette']
+
+#Comparadores
+nomeCompleto.startswith("Fe") - Vai verificar se a minha variável começa com "Fe" e retornar TRUE
+"li" in nomeCompleto - Vai verificar se na variável tem "li" e vai retornar TRUE
+"li" not in nomeCompleto - Vai verificar se "li" está presente na variável e retornar FALSE
+"""
