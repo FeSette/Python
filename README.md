@@ -5,7 +5,7 @@
 # 🐍 Python Journey: Backend & Integration for Data Engineering
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Engineer%20Jr-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Role-Data%20Engineer-blue?style=for-the-badge" alt="Role">
   <img src="https://img.shields.io/badge/Focus-Flask%20%26%20Data%20APIs-8257E5?style=for-the-badge&logo=flask" alt="Focus">
 </p>
 
