@@ -35,7 +35,7 @@ valores = list(pessoa.values())
 print(f"Valores do dicionário: {valores}")
 print(f"Primeiro valor: {valores[0]}")
 
-# items()
+# items() - O resultado é uma tupla
 itens = list(pessoa.items())
 print(f"Pares chave-valor do dicionário: {itens}")
 print(f"Primeira chave-valor: %s = %s" %(itens[0][0], itens[0][1]))
